@@ -1,7 +1,0 @@
-@@ +13,2 -5,6 @@
-
-@@ +13,2 -5,6 @@
-
-
-@@ +13,2 -5,6 @@
-@@ -35,7 +35,7 @@ void command_compare_unstaged_file_to_last_commit::execute()
