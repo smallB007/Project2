@@ -18,6 +18,7 @@ a\ -\ Copy.txt
 a.txt
 ade.ex
 ala.txt
+anime\ subtree
 asd.txt
 asdf.tew
 asdf.txt
