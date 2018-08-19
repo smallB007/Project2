@@ -18,11 +18,13 @@ a\ -\ Copy.txt
 a.txt
 ade.ex
 ala.txt
+anime\ subtree
 asd.txt
 asdf.tew
 asdf.txt
 asdfe
 b
+c
 characteristics\ for\ git\ gui\ app\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy.txt
 characteristics\ for\ git\ gui\ app\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy.txt
 characteristics\ for\ git\ gui\ app\ -\ Copy\ -\ Copy\ -\ Copy\ -\ Copy\ (2)\ -\ Copy.txt
@@ -57,6 +59,7 @@ d
 de
 debian_postinstall.sh
 debian_preseed.cfg
+e
 fedora_ks.cfg
 git
 llalala
