@@ -18,6 +18,7 @@ a\ -\ Copy.txt
 a.txt
 ade.ex
 ala.txt
+anime\ subtree
 asd.txt
 asdf.tew
 asdf.txt
@@ -58,6 +59,7 @@ d
 de
 debian_postinstall.sh
 debian_preseed.cfg
+e
 fedora_ks.cfg
 git
 llalala
